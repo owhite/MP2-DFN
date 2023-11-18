@@ -1,7 +1,7 @@
 # **MP2-DFN** 
 A motor controller board based on the NVMTSC4D3N15MC with a DFN footprint. 
 
-This branch is described in this [endless sphere post](https://endless-sphere.com/sphere/threads/modular-multi-platform-300a-esc.117045/page-6#post-1779264).
+This branch is described in this [endless sphere post](https://endless-sphere.com/sphere/threads/modular-multi-platform-300a-esc.117045/post-1781912).
 
 ## Version 0.2
 
