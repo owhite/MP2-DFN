@@ -19,6 +19,7 @@ The project hosted here absolutely would not have been possible without the inte
 ## Version 0.3
 Previous version works great. The only change has been to extend the VBAT connectors.
 
+## Attribution
 
 **Attribution for the MP2-DFN must always include acknowledgement of badgineer's original [MP2-ESC](https://github.com/badgineer/MP2-ESC).** 
 
