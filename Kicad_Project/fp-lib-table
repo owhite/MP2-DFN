@@ -1,5 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "MP2_DFN_Custom_parts")(type "KiCad")(uri "${KIPRJMOD}/MP2_DFN_Custom_parts.pretty")(options "")(descr ""))
-  (lib (name "Busbars")(type "KiCad")(uri "${KIPRJMOD}/Busbars.pretty")(options "")(descr ""))
-)
